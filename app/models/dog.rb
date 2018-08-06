@@ -12,6 +12,7 @@ end
 
 def self
   @@all << self
+end
   
 def @@all
   @@all
